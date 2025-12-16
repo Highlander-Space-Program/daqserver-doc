@@ -1,0 +1,5 @@
+[book]
+authors = ["mingzezh"]
+language = "en"
+src = "src"
+title = "DAQ Server"
