@@ -1,3 +1,3 @@
 # DAQ server Documentation
 
-[daqserver.github.io](https://daqserver.github.io)
+[DAQ server Documentation](https://highlander-space-program.github.io/daqserver-doc/)
