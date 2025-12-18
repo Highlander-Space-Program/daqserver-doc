@@ -32,7 +32,8 @@ provided a guide for that below as well.
   3. You will see instructions telling you how to install CISCO Anyconnect VPN client.
   4. Download the client and install it.
   5. Open the client and enter `vpn.ucr.edu` as the VPN endpoint where the client will connect to.
-  6. Click "Connect" and you should be connected to the UCR VPN after a few seconds.
+  6. Login using the same username and password from `vpn.ucr.edu`
+  7. Click "Connect" and you should be connected to the UCR VPN after a few seconds.
 </details>
 
 <details>
