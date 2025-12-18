@@ -1,6 +1,7 @@
 # The DAQ Server
 
 * [Main repo](https://github.com/Highlander-Space-Program/daqserver)
+* [Documentation repo](https://github.com/Highlander-Space-Program/daqserver-doc)
 
 <pre>
                                                          @@@@@@@@@@@@
