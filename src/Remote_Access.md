@@ -122,7 +122,7 @@ provided a guide for that below as well.
 
   The reason why this script is needed is because `sudo openconnect
   --protocol=anyconnect vpn.ucr.edu` by itself is not currently compatible with
-  `vpn.ucr.edu`. What this script does is it extra the login session cookie
+  `vpn.ucr.edu`. What this script does is it extracts the login session cookie
   from `vpn.ucr.edu` and use it with `openconnect`.
 </details>
 
